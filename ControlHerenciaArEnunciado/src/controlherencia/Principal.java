@@ -2,6 +2,7 @@ package controlherencia;
 import java.util.*;
 //Gonzalo Fernández
 //Modificación para repetir "Commit and Push".
+//Cambio2
 public class Principal {
     static final int MAXBECAS=20;
 	public static void main(String[] args) {
