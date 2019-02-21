@@ -1,6 +1,7 @@
 package controlherencia;
 //Gonzalo Fernández
 //Modificación para repetir "Commit and Push".
+//Modificación de Gonzalo
 public class FP extends Beca{
 	private int numBecaFP;
 	private static int numBecados;
